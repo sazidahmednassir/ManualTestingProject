@@ -29,6 +29,11 @@
 4. [Bug Report Two](https://docs.google.com/document/d/19e4UmP1XJCtieeHpERx6Tyn0aqm0FbCO/edit?usp=share_link&ouid=100388047820725855896&rtpof=true&sd=true)
 5. [Bug Report Three](https://docs.google.com/document/d/1OJgzWCXc-oArRdRUeTfS0eNTwmPgZ-px/edit?usp=share_link&ouid=100388047820725855896&rtpof=true&sd=true)
 
+**MindMap**
+
+![Flexiplan (App)](https://user-images.githubusercontent.com/90126212/215396833-f6ab6ef0-99cc-4810-abef-5fca850500c2.png)
+
+
 Thank You For Reading.
 
 From,
