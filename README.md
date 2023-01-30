@@ -31,7 +31,8 @@
 
 **MindMap**
 
-![Flexiplan (App)](https://user-images.githubusercontent.com/90126212/215396833-f6ab6ef0-99cc-4810-abef-5fca850500c2.png)
+
+![Flexiplan (App) 1](https://user-images.githubusercontent.com/90126212/215397199-42a87c69-1ca5-4795-86ec-47c8c766b732.png)
 
 
 Thank You For Reading.
