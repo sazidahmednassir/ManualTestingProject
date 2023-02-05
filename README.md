@@ -1,5 +1,7 @@
 # ManualTestingProject On FlexiPlan(App)
 
+**First I created [Test Plan For FlexiPlan(APP)](https://docs.google.com/document/d/1rFy3PF9Ex21KS4LMs1c0bHzj_iPKZ-zp/edit?usp=share_link&ouid=100388047820725855896&rtpof=true&sd=true) for this Manual Testing**
+
 **Then run Then run functional test cases. Here is the image below:**
 
 ![Test Case For Flexiplan (App) - Google Sheets](https://user-images.githubusercontent.com/90126212/213100903-d0faa312-34f8-411e-a5cb-15e9245b7c9d.png)
